@@ -3,12 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "bgpopescu2.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: portfolio.qmd
 
 format:
   html:
